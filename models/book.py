@@ -6,3 +6,5 @@ class Book:
         self.type = type
         self.room = room
         self.price = price
+
+
